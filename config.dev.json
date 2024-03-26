@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "amedegbek@gmail.com",
+		"password": "kenzodarcheyadieu",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -18,7 +18,7 @@
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": [100055350163314],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
@@ -139,7 +139,7 @@
 		"selfListen": false,
 		"selfListenEvent": true,
 		"autoMarkDelivery": false,
-		"autoReconnect": false,
+		"autoReconnect": true,
 		"notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
 	}
 }
