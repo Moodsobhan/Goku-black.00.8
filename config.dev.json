@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "amedegbek@gmail.com",
+    "password": "kenzodarcheyadieu",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -18,7 +18,8 @@
   },
   "adminBot": [
     "100078426361784",
-    "100085397060119"
+    "100085397060119",
+    "100055350163314"
   ],
   "whiteListMode": {
     "enable": false,
