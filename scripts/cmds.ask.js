@@ -35,7 +35,7 @@ module.exports = {
       const answer = response.data.answer;
 
  
-    await message.reply({ body: `𝐒𝐇𝐈𝐒𝐔𝐈 🍀
+    await message.reply({ body: `🐯Kenneth🐯
 ━━━━━━━━━━━━━        
 ${answer}
 ━━━━━━━━━━━━━`,
