@@ -1,4 +1,16 @@
-[
+import time
+import datetime
+
+# Définir la durée d'un mois en jours
+duree_mois = 30
+
+# Boucler pendant un mois
+for jour in range(duree_mois):
+    # Code de connexion du bot ici
+    print("Bot connecté le jour", jour+1)
+
+    # Attendre 24 heures avant la prochaine connexion
+    time.sleep(24 * 60 * 60)  # 24 heures en secondes[
 {
     "domain": ".facebook.com",
     "expirationDate": 1744062262.318581,
