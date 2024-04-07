@@ -1,16 +1,5 @@
-import time
-import datetime
 
-# Définir la durée d'un mois en jours
-duree_mois = 30
-
-# Boucler pendant un mois
-for jour in range(duree_mois):
-    # Code de connexion du bot ici
-    print("Bot connecté le jour", jour+1)
-
-    # Attendre 24 heures avant la prochaine connexion
-    time.sleep(24 * 60 * 60)  # 24 heures en secondes[
+[
 {
     "domain": ".facebook.com",
     "expirationDate": 1744062262.318581,
@@ -27,7 +16,7 @@ for jour in range(duree_mois):
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1746534769.674965,
+    "expirationDate": 1747088410.298928,
     "hostOnly": false,
     "httpOnly": true,
     "name": "datr",
@@ -139,7 +128,7 @@ for jour in range(duree_mois):
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1717710268,
+    "expirationDate": 1717712794,
     "hostOnly": false,
     "httpOnly": false,
     "name": "vpd",
@@ -167,7 +156,7 @@ for jour in range(duree_mois):
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1720302268,
+    "expirationDate": 1720304798,
     "hostOnly": false,
     "httpOnly": false,
     "name": "wl_cbv",
@@ -176,7 +165,7 @@ for jour in range(duree_mois):
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "v2%3Bclient_version%3A2458%3Btimestamp%3A1712526265",
+    "value": "v2%3Bclient_version%3A2461%3Btimestamp%3A1712528793",
     "isProtected": true,
     "id": 12
 },
