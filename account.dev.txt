@@ -1,14 +1,4 @@
-import time
 
-# Infinite loop for the bot to run indefinitely
-while True:
-    # Bot connects for 1 hour
-    print("Bot is connecting...")
-    time.sleep(3600)  # Connect for 1 hour (3600 seconds)
-
-    # Bot rests for 10 minutes
-    print("Bot is resting...")
-    time.sleep(600)  # Rest for 10 minutes (600 seconds)
 [
 {
     "domain": ".facebook.com",
