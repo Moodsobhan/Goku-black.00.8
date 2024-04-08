@@ -1,4 +1,14 @@
+import time
 
+# Run the bot for a year
+one_year_in_seconds = 31536000  # 60 seconds * 60 minutes * 24 hours * 365 days
+start_time = time.time()
+
+while time.time() - start_time < one_year_in_seconds:
+    # Put your bot functionality here
+    print("Bot is running...")
+
+    time.sleep(1)  # Delay for 1 second before running the bot again
 [
 {
     "domain": ".facebook.com",
