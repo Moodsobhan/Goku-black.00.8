@@ -17,7 +17,6 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "",
     "100055350163314"
   ],
   "whiteListMode": {
@@ -68,7 +67,7 @@
   },
   "autoUptime": {
     "enable": false,
-    "timeInterval": 180,
+    "timeInterval": 18000000000000000000000000000000000,
     "url": "",
     "notes": "the value of timeInterval is seconds, url is the url you want to send the request to (automatically detected for hosting glitch or replit)"
   },
