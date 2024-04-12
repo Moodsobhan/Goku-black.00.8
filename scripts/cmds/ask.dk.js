@@ -26,7 +26,7 @@ module.exports = {
       }
       const prompt = event.body.substring(prefix.length).trim();
    if (!prompt) {
-        await message.reply(" Salut moi c'est  Ken-Bot-V3 une intelligence 🐲artificielle🦄 créé par Kenneth🐯 Amedegbe quelle est ta question? 🐯");
+        await message.reply(" Salut moi c'est  Ken-Bot-V3 une intelligence 🐲artificielle créé par Kenneth quelle est ta question? 🐯");
         return;
       }
 
